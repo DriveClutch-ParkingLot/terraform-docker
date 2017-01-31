@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.5
 
 ENV TF_VERSION "0.7.13"
 
