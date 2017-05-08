@@ -1,6 +1,6 @@
 FROM alpine:3.5
 
-ENV TF_VERSION "0.9.2"
+ENV TF_VERSION "0.9.4"
 
 
 RUN apk --update add \
